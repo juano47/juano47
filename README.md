@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I'm Juan Ignacio 👋🏾 👩🏾‍💻
+<a href=#><img src="contributions.svg"></a>
 
 <!--
 **juano47/juano47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
